@@ -7,3 +7,4 @@ Gists
 1. [Mobile devices corners display radius](https://gist.github.com/ruvasik/18e511724ebf592e417c5bcae2486cc9)
 1. [Docker cleanup guide: containers, images, volumes, networks](https://gist.github.com/ruvasik/c6a79fde1fc65dacd9156677d6df4bc0)
 1. [1c-bitrix-restore.php](https://gist.github.com/ruvasik/e1fb3dda5d74c7b99fe875f528f6e700)
+1. [JS image to/from data URI](https://gist.github.com/ruvasik/f9389fa0454012102eb926514447417b)
