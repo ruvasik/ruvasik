@@ -1,5 +1,5 @@
 # Владимир Алексеев
-
+<img src="https://i.giphy.com/media/Ze44chcCSUpyVN1gmQ/200w.webp" alt="" width="100" />
 ## Веб-разработчик, руководитель разработки, консультант
 
 Считаю, что обладаю довольно редким сочетаний компетенций в маркетинге, менеджменте, разработке и аналитике.
@@ -99,3 +99,5 @@ Gists
 1. [Docker cleanup guide: containers, images, volumes, networks](https://gist.github.com/ruvasik/c6a79fde1fc65dacd9156677d6df4bc0)
 1. [1c-bitrix-restore.php](https://gist.github.com/ruvasik/e1fb3dda5d74c7b99fe875f528f6e700)
 1. [JS image to/from data URI](https://gist.github.com/ruvasik/f9389fa0454012102eb926514447417b)
+
+<img src="https://i.giphy.com/media/afqT2ykIlYcVi/giphy.webp" alt="" width="250" />
