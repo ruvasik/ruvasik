@@ -83,6 +83,16 @@
 
 Стек технологий: PHP, MySQL, Zend Framework, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, HTML5 video, SMS шлюзы, интеграции с социальными сетями.
 
+<hr/>
+
+Тестовые задания
+----------------
+1. https://github.com/ruvasik/test-insta-feed
+1. https://github.com/ruvasik/nrich
+
+**Еще пару фрагментов**
+https://gist.github.com/ruvasik/bbe8ca90c9d688c27dd28424cf726df2
+
 Gists
 -----
 1. [Renaming files (jpg) in the folders to sequential numbers order starting with 1 in every folder](https://gist.github.com/ruvasik/fcc90970a6aaf3a9de780788958cd6de)
