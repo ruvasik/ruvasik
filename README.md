@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/Ze44chcCSUpyVN1gmQ/200w.webp" alt="" width="100" />
+<img src="https://i.giphy.com/media/Ze44chcCSUpyVN1gmQ/200w.webp" alt="слабоумие и отвага" width="100" />
 
 # Владимир Алексеев
 
@@ -102,4 +102,4 @@ Gists
 1. [1c-bitrix-restore.php](https://gist.github.com/ruvasik/e1fb3dda5d74c7b99fe875f528f6e700)
 1. [JS image to/from data URI](https://gist.github.com/ruvasik/f9389fa0454012102eb926514447417b)
 
-<img src="https://i.giphy.com/media/afqT2ykIlYcVi/giphy.webp" alt="" width="250" />
+<img src="https://i.giphy.com/media/afqT2ykIlYcVi/giphy.webp" alt="Здравствуйте, Владимир. Хочу предложить вам позицию java разработчика" width="250" />
