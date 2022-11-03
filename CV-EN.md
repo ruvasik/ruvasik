@@ -1,6 +1,4 @@
-<img src="https://i.giphy.com/media/Ze44chcCSUpyVN1gmQ/200w.webp" alt="слабоумие и отвага" width="100" />
-
-# Владимир Алексеев
+# Vladimir Alekseev
 
 ## Веб-разработчик, руководитель разработки, консультант
 
@@ -86,12 +84,12 @@
 
 <hr/>
 
-Тестовые задания
-----------------
+TEST PROJECTS
+-------------
 1. https://github.com/ruvasik/test-insta-feed
 1. https://github.com/ruvasik/nrich
 
-**Еще пару фрагментов**
+**And one more**
 https://gist.github.com/ruvasik/bbe8ca90c9d688c27dd28424cf726df2
 
 Gists
@@ -101,5 +99,3 @@ Gists
 1. [Docker cleanup guide: containers, images, volumes, networks](https://gist.github.com/ruvasik/c6a79fde1fc65dacd9156677d6df4bc0)
 1. [1c-bitrix-restore.php](https://gist.github.com/ruvasik/e1fb3dda5d74c7b99fe875f528f6e700)
 1. [JS image to/from data URI](https://gist.github.com/ruvasik/f9389fa0454012102eb926514447417b)
-
-<img src="https://i.giphy.com/media/afqT2ykIlYcVi/giphy.webp" alt="Здравствуйте, Владимир. Хочу предложить вам позицию java разработчика" width="250" />
