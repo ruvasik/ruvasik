@@ -1,90 +1,83 @@
 # Vladimir Alekseev
 
-## Веб-разработчик, руководитель разработки, консультант
+## Web developer, development team leader, consultant
 
-Считаю, что обладаю довольно редким сочетаний компетенций в маркетинге, менеджменте, разработке и аналитике.
+I believe I possess a rare combination of skills in marketing, management, development, and analytics.
 
-Обладаю уверенными знаниями и успешным практическим опытом в области:
-* организации и управления процессом веб-разработки (опыт в разработке с 2002 года);
-* разработки технических заданий, смет, прототипов;
-* создания и поддержки ИТ инфраструктуры, серверов, рабочих станций, IP телефонии;
-* организации и участия в коммерческих и государственных закупках;
-* выстраивания и оптимизации бизнес-процессов, их формализации;
-* выстраивания и развития эффективных коммуникаций с партнерами, клиентами, командой, подрядчиками;
-* знания и применения гибких методологий и управления проектами.
+I have strong knowledge and successful practical experience in the following areas:
+* organizing and managing web development processes (with experience dating back to 2002);
+* developing technical specifications, estimates, and prototypes;
+* creating and maintaining IT infrastructure, servers, workstations, and IP telephony;
+* organizing and participating in commercial and government procurement processes;
+* streamlining and optimizing business processes and formalizing them;
+* building and developing effective communication with partners, clients, teams, and contractors;
+* knowledge and application of agile methodologies and project management.
 
-Имею опыт работы с: PHP, MySQL, Yii, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, SPA, HTML5 video, анимации, интеграции с социальными сетями, nodeJS, GruntJS, Gulp, БЭМ, 1C-Bitrix, Bolt CMS, WordPress, Twig, Jade, Smarty, MySQL, MongoDB, Gitlab, CI, Bitbucket, Git, Trello, Bitrix24, Планфикс, Мегаплан, Basecamp, MediaWiki, Adobe Photoshop, Adobe Illustrator, Sketch, Яндекс Метрикой, Google Analytics, Google Tag Manager, Piwik, ROIstat, Windows (XP Home +, Server 2000+), MacOS и кучей других сочетаний букв и цифр.
+I have experience working with: PHP, MySQL, Yii, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, SPA, HTML5 video, animations, integration with social networks, nodeJS, GruntJS, Gulp, BEM, 1C-Bitrix, Bolt CMS, WordPress, Twig, Jade, Smarty, MySQL, MongoDB, Gitlab, CI, Bitbucket, Git, Trello, Bitrix24, Planfix, Megaplan, Basecamp, MediaWiki, Adobe Photoshop, Adobe Illustrator, Sketch, Yandex Metrics, Google Analytics, Google Tag Manager, Piwik, ROIstat, Windows (XP Home+, Server 2000+), MacOS, and many other combinations of letters and numbers.
 
-Постоянно стремлюсь к развитию своих компетенций, самостоятелен в получении новых знаний.
+I am constantly striving to develop my skills and am self-sufficient in acquiring new knowledge.
 
-### Опыт работы
+## Work Experience
+### Sber
+**January 2022 - May 2022**
+#### Head of Department
+Led the development of a new automated incident management system, replacing several legacy products and integrating with over 15 bank systems.
 
-#### Сбер
-**Январь 2022 — май 2022**
-##### Руководитель направления
-Вышел тех-лидом на разработку новой автоматизированной системы по работе с инцидентами. Сложная система призванная заменить ряд легаси продуктов, интеграция с 15+ системами банка.
+Initiated and organized a knowledge base in Confluence and set up necessary tools such as Jira and Bitbucket.
 
-Инициировал и организовал базу знаний в Confluence, завел необходимые инструменты (Jira, Bitbucket).
+Collaborated with analysts to calculate potential business loads and determined server capacity requirements.
 
-С аналитиками просчитали потенциальную бизнес нагрузку и определил требования к серверным мощностям.
+Familiarized myself with the bank's infrastructure and technology stack in a short period of time.
 
-Ознакомился в короткий срок с инфраструктурой и стеком банка.
+Defined the basic and integration architecture, target stack (Java Springboot, PostgreSQL, Kafka, Service Mesh, OpenShift) with the corporate architect.
 
-Зафиксировал базовую и интеграционную архитектуру, целевой стек (Java Springboot, PostgreSQL, Kafka, Service Mesh, OpenShift) с корпоративным архитектором.
+Initiated the development of the frontend (Typescript, React, Mobx), implemented a basic interface (without integrations) according to the technical prototypes provided by the analysts.
 
-Инициировал разработку фронтенда (Typescript,React,Mobx), реализовал базовый интерфейс (без интеграций) по тех. прототипам аналитиков.
+Established hiring requirements and created a roadmap for the department.
 
-Сформировал требования по найму и сделал дорожную карту.﻿
-#### Брайс
-**Август 2013 — декабрь 2021**
-##### CIO
+### Bryce
+**August 2013 - December 2021**
+#### CIO
+* Strategic and operational management of software development activities for clients (FMCG, digital);
+* Organizing, controlling, and coordinating the development, testing, implementation, and integration of solutions into the client's existing information landscape;
+* Organizing the operation of the internal IT infrastructure and technical support of information systems, software, and hardware used in the company;
+* Managing communications with clients and contractors (negotiations, contract conclusion, monitoring of contractual obligations), organizing and controlling tender activities;
+* Organizing and managing the work of the team, distributing responsibilities, powers, and workload among subordinates, controlling the implementation of tasks and goals (in charge of up to 15 people);
+* Managing marketing and promotion (of the company and clients).
 
-1. стратегическое и операционное управление деятельностью по разработке ПО для клиентов (FMCG, digital);
-2. организация, контроль и координация процессов разработки, тестирования, внедрения и интеграции решений в существующий информационный ландшафт заказчика;
-3. организация эксплуатации внутренней ИТ инфраструктуры и технической поддержки информационных систем, программного обеспечения и аппаратных средств, используемых в компании;
-4. управление коммуникациями с клиентами и подрядчиками (переговоры, заключение договоров, контроль исполнения договорных обязательств), организация и контроль тендерной деятельности;
-5. организация и управление работой команды, распределение ответственности, полномочий и нагрузки между подчиненными, контроль исполнения поставленных задач и целей (в подчинении до 15 человек);
-6. управление маркетингом и продвижением (компании и клиентов).
+Key achievements:
+* Organized the work of the development team: formed a team, tuned and formalized business processes;
+* Implemented internal infrastructure (CRM + Wiki + Task manager + Gitlab + CI);
+* Signed contracts with key clients (Afisha.ru, Studio Oleg Chulakov, Yandex Taxi, Ozon Group, and others);
+* Ranked the company in the TOP-100 agencies in Russia working with major contractors in the Runet rating, as well as in the TOP-100 Tagline;
+* Ensured the implementation of about 150 projects, including:
+* Development and implementation of a microservice project for customer scoring for one of the federal banks (built the application architecture, integrated it into the Siebel CRM banking system);
+* Development and launch of a website, as well as the improvement of the internal CRM for the Smartprice online store;
+* Actively participated as a developer/manager/architect in individual projects.
 
-Ключевые результаты:
+### Yandex
+**September 2012 - July 2013**
+#### Interface Developer
+Development and support of interfaces for the advertising technology department at Yandex.
 
-1. организовал работу команды разработки: сформировал команду, настроил и формализовал бизнес процессы;
-2. реализовал внутреннюю инфраструктуру (CRM + Wiki + Task manager + Gitlab + CI);
-3. заключил договоры с ключевыми клиентами (Афиша.ру, Студия Олега Чулакова, Яндекс Такси, Озон Групп и др.);
-4. вывел компанию в рейтинг Рунета ТОП-100 агентств России работающих с крупнейшими подрядчиками, а также в ТОП-100 Тэглайна;
-5. обеспечил реализацию порядка 150 проектов, в т.ч.:
+Key achievements:
+* Converted internal interfaces to BEM technology;
+* Designed and implemented internal elements of the public interface;
+* Organized and conducted 3 quarterly corporate conferences for frontend developers (120-170 people each);
+* Participated in the development of group work regulations and code formatting standards (code-style).
+* Technology stack: HTML5, CSS3, JavaScript, jQuery, BEM, AJAX, Jira.
 
-* проект разработки и внедрения микросервиса для скоринга клиента для одного из федеральных банков (собрали архитектуру приложения, интегрировали в банковскую систему Siebel CRM);
-* проект разработки и запуска сайта, а также доработке внутренней CRM для интернет-магазина Смартпрайс;
 
-6. принимал непосредственное участие в качестве разработчика/менеджера/архитектора в отдельных проектах.
-
-#### Яндекс
-**Сентябрь 2012 — июль 2013**
-##### Разработчик интерфейсов
-Разработка и поддержка интерфейсов отдела рекламных технологий Яндекса.
-
-Ключевые результаты:
-1. перевел внутренние интерфейсы на БЭМ;
-2. спроектировал и реализовал внутренние элементы общедоступного интерфейса;
-3. организовал и провел 3 ежеквартальных корпоративных конференций фронтенд-разработчиков (120-170 человек каждая);
-4. принял участие в разработке регламентов работы группы и стандарта оформления кода (code-style).
-
-Стек технологий: HTML5, CSS3, JavaScript, jQuery, БЭМ, AJAX, Jira.
-
-#### Creara
-**Октябрь 2011 — август 2012**
-##### Web-разработчик
-
-Ключевые результаты:
-1. разработал 14 интранет проектов;
-2. провел синхронизацию с системами биллинга и учета.
-
-Стек технологий: PHP, MySQL, Zend Framework, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, HTML5 video, SMS шлюзы, интеграции с социальными сетями.
+### Creara
+**October 2011 - August 2012**
+### Web Developer
+Key achievements:
+* Developed 14 intranet projects.
+* Synchronized systems with billing and accounting systems.
+* Technology stack: PHP, MySQL, Zend Framework, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, HTML5 video, SMS gateways, integrations with social networks.
 
 <hr/>
-
-TEST PROJECTS
+Test projects
 -------------
 1. https://github.com/ruvasik/test-insta-feed
 1. https://github.com/ruvasik/nrich
