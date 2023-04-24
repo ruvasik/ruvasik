@@ -77,6 +77,7 @@ Key achievements:
 * Technology stack: PHP, MySQL, Zend Framework, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, HTML5 video, SMS gateways, integrations with social networks.
 
 <hr/>
+
 Test projects
 -------------
 1. https://github.com/ruvasik/test-insta-feed
