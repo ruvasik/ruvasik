@@ -18,6 +18,14 @@ I have experience working with: PHP, MySQL, Yii, HTML5, CSS3, JavaScript, jQuery
 I am constantly striving to develop my skills and am self-sufficient in acquiring new knowledge.
 
 ## Work Experience
+
+#### MAZ Moskvich
+**Oct 2022 – Apr 2023
+##### Development Team Lead for Internal Reporting System
+I joined a new project as the first developer for an internal reporting system at a car factory. I planned the architecture, set up the project using Next.js, developed the main interface screens, implemented the business logic, supported two more developers who joined later, and conducted code reviews. The team consisted of 5 people.
+
+Next.js / Typescript / Styled Components / MUI
+
 ### Sber
 **January 2022 - May 2022**
 #### Head of Department
