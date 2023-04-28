@@ -88,6 +88,7 @@ https://gist.github.com/ruvasik/bbe8ca90c9d688c27dd28424cf726df2
 
 Gists
 -----
+1. TS & SC example https://gist.github.com/ruvasik/ebd55d354ededfdd9655d3cc7d0478cf
 1. [Renaming files (jpg) in the folders to sequential numbers order starting with 1 in every folder](https://gist.github.com/ruvasik/fcc90970a6aaf3a9de780788958cd6de)
 1. [Mobile devices corners display radius](https://gist.github.com/ruvasik/18e511724ebf592e417c5bcae2486cc9)
 1. [Docker cleanup guide: containers, images, volumes, networks](https://gist.github.com/ruvasik/c6a79fde1fc65dacd9156677d6df4bc0)
