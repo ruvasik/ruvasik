@@ -13,6 +13,15 @@ I have strong knowledge and successful practical experience in the following are
 * building and developing effective communication with partners, clients, teams, and contractors;
 * knowledge and application of agile methodologies and project management.
 
+### Languages:
+- Russian native
+- Intermediate English
+- Grunddeutsch (in der Mittelschule).
+
+### Education
+Bachelor's degree in economics
+<hr>
+
 I have experience working with: PHP, MySQL, Yii, HTML5, CSS3, JavaScript, jQuery, XML-RPC, AJAX, SPA, HTML5 video, animations, integration with social networks, nodeJS, GruntJS, Gulp, BEM, 1C-Bitrix, Bolt CMS, WordPress, Twig, Jade, Smarty, MySQL, MongoDB, Gitlab, CI, Bitbucket, Git, Trello, Bitrix24, Planfix, Megaplan, Basecamp, MediaWiki, Adobe Photoshop, Adobe Illustrator, Sketch, Yandex Metrics, Google Analytics, Google Tag Manager, Piwik, ROIstat, Windows (XP Home+, Server 2000+), MacOS, and many other combinations of letters and numbers.
 
 I am constantly striving to develop my skills and am self-sufficient in acquiring new knowledge.
