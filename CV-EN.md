@@ -14,8 +14,8 @@ I have strong knowledge and successful practical experience in the following are
 * knowledge and application of agile methodologies and project management.
 
 ### Languages:
-- Russian native
-- Intermediate English
+- Russian native;
+- Intermediate English (B1-B2);
 - Grunddeutsch (in der Mittelschule).
 
 ### Education
@@ -29,7 +29,7 @@ I am constantly striving to develop my skills and am self-sufficient in acquirin
 ## Work Experience
 
 #### MAZ Moskvich
-**Oct 2022 – Apr 2023**
+**Oct 2022 – Oct 2023**
 ##### Development Team Lead for Internal Reporting System
 I joined a new project as the first developer for an internal reporting system at a car factory. I planned the architecture, set up the project using Next.js, developed the main interface screens, implemented the business logic, supported two more developers who joined later, and conducted code reviews. The team consisted of 5 people.
 
