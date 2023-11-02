@@ -1,6 +1,8 @@
 # Vladimir Alekseev
 
-## Web developer, development team leader, consultant
+## Senior front-end developer, team lead.
+
+### Main stack: react, typescriprt, redux, mobx, styled components, next.js, jest.
 
 I believe I possess a rare combination of skills in marketing, management, development, and analytics.
 
