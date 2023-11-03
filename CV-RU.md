@@ -7,8 +7,8 @@
 **Актуальный стек: typescript + react + nodejs**
 
 ### Языки:
-- Русский родной
-- Intermediate English
+- Русский родной;
+- Intermediate English (B1-B2);
 - Grunddeutsch (in der Mittelschule).
 
 ### Образование
